@@ -1,148 +1,159 @@
-# Actas
-# Acta de entendimiento
-Proyecto: PrestaGO
+<div align="center">
+       <h1><b>ACTAS</b></h1> 
+</div>
 
-integrantes:
+---
 
-+ Pedro David Ballestero Buelvas
+## Acta de entendimiento
 
-+ Edwin Hernando Avila Hernandez 
+**Proyecto:** PrestaGO
 
-+ Objetivo del acta
+**Integrantes:**
 
-Definir los objetivos comunes y las expectativas individuales de cada integrante del grupo, para asi tener un alcance de entendimiento compartido sobre el proposito y metas del proyecto PrestaGO
+•	Pedro David Ballestero
 
-+ Objetivos comunes 
+•	Edwin Hernando Ávila
 
-El equipo se compromete a crear un programa de python que permita la gestion del proyecto para gestionar su inventario, prestamos, recordatorios y notificaciones entre otros. asegurando que se cumplan los requisitos academicos y las entregas previstas. el objetivo es obtener un producto funcional que refleje las habilidades desarrolladas en el curso de algoritmos y programacion.
+**Objetivo del acta**
 
-+ Expectativas individuales 
+Definir los objetivos comunes y las expectativas individuales de los integrantes del grupo, con el fin de garantizar un entendimiento compartido sobre el propósito y alcance del proyecto PrestaGO.
 
-Pedro Ballestero: Espera obtener grandes habilidades en programacion, participar en los desarrollos de los codigos y mejores sus capacidades de rosolucion de problemas aplicados en este curso, ademas de esto busca afianzar su pensamiento analitico y ordenado.
+**Objetivos comunes**
 
-Edwin Avila: Espera fortaleces sus habilidades en la documentacion de proyectos ademas tambien busca adquirir mayor domino de redaccion en el lenguage de programacion. apoyar la estructuracion de entregables
+El equipo se compromete a crear un programa en Python que permita la gestión de prétsamos, asegurando que se cumplan los requisitos académicos y las entregas previstas. El objetivo es obtener un producto funcional que refleje las habilidades desarrolladas en algoritmia y programación, al mismo tiempo que se fortalece el aprendizaje colaborativo entre todos los miembros.
 
-En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la presente acta:
+**Expectativas individuales**
 
-+ 28/02/2026 Pedro David Ballestero Buelvas
-  
-  C.c 1069475336
+•	Pedro David Ballestero:  Espera fortalecer sus habilidades en la documentación de proyectos además de adquirir mayor dominio en la redacción de requisitos de software.
+
+•	Edwin Hernando Ávila: Espera consolidar sus conocimientos en programación, participar activamente en el desarrollo del código y mejorar su capacidad de resolución de problemas lógicos aplicados a la programación.
+
+**En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
+
+• 01/03/2026   *Pedro David Ballestero* --> **C.C: 1069475336**
+
+• 01/03/2026   *Edwin Hernando Ávila* --> **C.C: 1101260281**
 
 
-+ 28/02/2026 Edwin Hernando avila hernandez
+---
+---
 
-  C.c 1101260281
+## Acta de colaboración
 
-  # Acta de colaboracion
+**Proyecto:** PrestaGO
 
-  Proyecto: PrestaGo
+**Integrantes:**
 
-  Integrabtes:
+•	Pedro David Ballestero 
 
- + Pedro David Ballestero Buelvas
+•	Edwin Hernando Ávila
 
- + Edwin Hernando Avila Hernandez
 
- +  Objetivo del acta
+**Objetivo del acta**
 
-  Estableces la metodologia del trabajo en equipo, Canales de comunicacion, frecuencia de reuniones y estrategia de resolucion de conflictos para garantizar una colaboracion eficiente  en el desarrolo de PrestaGo
+Establecer las metodologías de trabajo en equipo, canales de comunicación, frecuencia de reuniones y estrategias de resolución de conflictos para garantizar una colaboración eficiente en el desarrollo del proyecto PrestaGO.
 
-  Metodologia de trabajo en equipo
+**Metodologías de trabajo en equipo**
 
-  El grupo acuerda trabajar de manera colaborativa mediante:
+El grupo acuerda trabajar de manera colaborativa mediante:
 
-   Reuniones periodicas para organizar, revisar los avances y toma de decisiones.
-Comunicacion costante y transparente entre los integrantes
- Organizacion de actividades en conjunto, aseguraando la participacion de cada uno de los integrantes
-    Responsabilidad individual en el cumplimientos de tareas asignadas
+•	Reuniones periódicas para la planificación, revisión de avances y toma de decisiones.
 
-  +  Canales de comunicacion
+•	Comunicación constante y transparente entre los integrantes.
 
-     WhatsApp: canal principal de comunicaion por rapidez y agilidad
-    Github: respositorio oficial para almacenar el codigo, documentacion y entregables del proyecto
+•	Organización de actividades en conjunto, asegurando la participación equitativa.
 
-  + El grupo se reunira al menos una vez por semana para resisar avances, discurir dudad y coordinar responsabilidades. En caso de ser necesasrio se convocara reuniones via WhatsApp
+•	Responsabilidad individual en el cumplimiento de tareas asignadas.
 
-  + Estrategias de resolucion de conflictos
-  + LOs desacuerdo seran abordados de forma respetusa durante las reuniones grupañes
-  + Se promera el dialogo abierto y la busqueda consensos
-  + Si el conflinto persiste, el caso sera ezpuesto de docente del resursom, quien atuara como mediador neutral.
+•	Mantenimiento de un ambiente de respeto, apoyo y compromiso mutuo.
 
-  + En constancia de aceptacion de lo aqui estipulado, los integrates firman la presente acta:
+**Canales de comunicación**
 
-    01/03/2026 Pedro Davud Ballestero Buelvas
+•	WhatsApp: canal principal para comunicación rápida y recordatorios.
 
-    C.c 1069475336
+•	Google Drive: espacio compartido para documentos, actas y material de apoyo.
 
-	+ 01/03/2026 Edwin Hernando Avla Hernadez
+•	GitHub: repositorio oficial para almacenar el código, documentación y entregables del proyecto.
 
-    C.c 1101260281
+**Frecuencia de comunicación**
 
-	# Acta de Responsabilidades
+El grupo se reunirá al menos una vez por semana para revisar avances, discutir dudas y coordinar responsabilidades. En caso de requerirse, se podrán convocar reuniones extraordinarias con previo aviso mediante el grupo de WhatsApp.
 
-Proecto: PrestaGo
+**Estrategias de resolución de conflictos**
 
-Integrantes:
+•	Los desacuerdos serán abordados de forma respetuosa durante las reuniones grupales.
 
-+ Pedro David Ballestero Bueolvas
-+ Edwin Hernando Avila Hernandez
+•	Se promoverá el diálogo abierto y la búsqueda de consensos.
 
-+ Objetivo del acta
+•	Si el conflicto persiste, el caso será expuesto al docente del curso, quien actuará como mediador neutral.
 
-  Defininir las tereas especificas asigandos a cada integrante del grupo, establces estrategia de avance, plazad intermedios y criterios de evalucion que garanticen el cumpliemto exitoso del proyecto
+**En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
 
-  + Estrategias de avance
- 
+•	01/03/2026   *Pedro David Ballestero* --> **C.C: 1069475336**
+
+•	01/03/2026   *Edwin Hernando Ávila* --> **C.C: 1101260281**
+
+
+---
+---
+
+## Acta de Responsabilidades
+
+**Proyecto:** PrestaGO
+
+**Integrantes:**
+
+•	Pedro David Ballestero
+
+•	Edwin Hernando Ávila
+
+
+**Objetivo del acta**  
+
+Definir las tareas específicas asignadas a cada integrante del grupo, establecer estrategias de avance, plazos intermedios y criterios de evaluación que garanticen el cumplimiento exitoso del proyecto.
+
+**Estrategias de Avance**
+
+1. Dividir el trabajo según los puntos exigidos en la entrega.
+
+1. Mantener reuniones semanales de seguimiento para verificar avances.
+
+1. Subir progresivamente la documentación al repositorio en GitHub para reunir la información.
+
+1. Definir plazos intermedios antes de la fecha de entrega para poder revisarla en equipo.
+
+1. Priorizar la organización y claridad de los documentos y dejar la creación del código para la siguiente parte.
+
+
+**Asignación de Responsabilidades**
+
+**•	Pedro David Ballestero**
     
-   Duvidis el trabajo segun los puntos requeridos en la entrega
+>-	Encargada de la redacción inicial de requisitos y apoyo en la descripción general del proyecto.
+>-	Organiza tiempos y distribuye tareas a los demás miembros.
+>-	Apoyo en la construcción del plan de proyecto. 
+>-	Plazo: borrador listo en la semana 5 para revisión grupal.
 
-  
-   Mantener reuniones semananalees de seguimiento para verificar avances
+**•	Edwin Hernando Ávila**
+>-	Encargado de la revisión sobre posibles funcionalidades del sistema y la preparación del reporte visual.
+>-	Responsable de la creación y gestión del repositorio en GitHub.
+>-	Apoyo en la definición de la licencia del software.
+>-	Plazo: borrador listo en la semana 5 para revisión grupal.
 
-  
-   subir progresivamente la documentacion al repositorio en Github para reunir la informacion
+**Criterios de Evaluación**
 
-  
-   Definir plazos intermenios antes de la fecha de entrega para poder revisarla en equipo
+•	Cumplimiento de plazos intermedios establecidos.
 
-  
-   Priorizar la organizacion y claridad de los documentos dejar las creacion del coigo para la siguiente parte
- 
-  + Asigancion de responsabilidades
- 
-  + Pedro David Ballestero Buelvas
-    
-   1. Encargado de la redaccion inicial de requisitos y apoyo en la descripcion general de proyecto
+•	Calidad y claridad de la redacción de los documentos.
 
-	2. Organiza tiempos y distribuye tareas a los demas miembros
+•	Participación activa en reuniones y discusiones.
 
-    3. apoyo en la contruccion del plan proyecto
+•	Aporte equitativo y compromiso con el proyecto.
 
-    4. Plazo: borrador listo en la semana 6 para revison grupal
+**En constancia de aceptación de lo estipulado, los integrantes firman la presente acta:**
 
-	+  Edwin Hernando Avila Hernandez
+01/03/2026   *Pedro David Ballestero* --> **C.C: 1069475336** 
 
-   1. Encaragdo de la revison sobre posibles funcionalidades del sistema y la prepacion del informe visual
-   2. apoyo en al definicion de la licencia del software
-   3. Plazo: borrador listo en la semana 6 para la resision grupal
- 
-      * Cirterios de evaluacion:
-        1. cumplimiento de los plazos intermedios establecidos
-        2. calidad y claridad de la redaciion de los documentos
-        3. participacion activa en reuniones y discusiones
-        4. aporte equitativo y compromiso con el proyecto
-       
-           En contancia de aceptacion de lo aqui estipualado, los integrantes firman la siguiente acta
-
-	   01/03/2026 Pedro David Ballestero
-
-		C.c 1069475336
-
-         01/03/2026 Edwind hernando avila hernandez
-
-		C.c 1101260281
-  
-
-
+01/03/2026   *Edwin Hernando Ávila* --> **C.C: 1101260281**
 
 
