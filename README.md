@@ -23,6 +23,7 @@ Pedro Ballestero: Espera obtener grandes habilidades en programacion, participar
 Edwin Avila: Espera fortaleces sus habilidades en la documentacion de proyectos ademas tambien busca adquirir mayor domino de redaccion en el lenguage de programacion. apoyar la estructuracion de entregables
 
 En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la presente acta:
+
 + 28/02/2026 Pedro David Ballestero Buelvas
   
   C.c 1069475336
@@ -69,7 +70,7 @@ Comunicacion costante y transparente entre los integrantes
 
   + En constancia de aceptacion de lo aqui estipulado, los integrates firman la presente acta:
 
-  + 01/03/2026 Pedro Davud Ballestero Buelvas
+    01/03/2026 Pedro Davud Ballestero Buelvas
 
     C.c 1069475336
 
