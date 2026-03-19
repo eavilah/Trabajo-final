@@ -20,7 +20,7 @@ Definir los objetivos comunes y las expectativas individuales de los integrantes
 
 **Objetivos comunes**
 
-El equipo se compromete a crear un programa en Python que permita la gestión de prétsamos, asegurando que se cumplan los requisitos académicos y las entregas previstas. El objetivo es obtener un producto funcional que refleje las habilidades desarrolladas en algoritmia y programación, al mismo tiempo que se fortalece el aprendizaje colaborativo entre todos los miembros.
+El equipo se compromete a crear un programa en Python que permita la gestión de préstamos, asegurando que se cumplan los requisitos académicos y las entregas previstas. El objetivo es obtener un producto funcional que refleje las habilidades desarrolladas en algoritmia y programación, al mismo tiempo que se fortalece el aprendizaje colaborativo entre todos los miembros.
 
 **Expectativas individuales**
 
