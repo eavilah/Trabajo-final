@@ -129,7 +129,7 @@ Definir las tareas específicas asignadas a cada integrante del grupo, establece
 
 **•	Pedro David Ballestero**
     
->-	Encargada de la redacción inicial de requisitos y apoyo en la descripción general del proyecto.
+>-	Encargado de la redacción inicial de requisitos y apoyo en la descripción general del proyecto.
 >-	Organiza tiempos y distribuye tareas a los demás miembros.
 >-	Apoyo en la construcción del plan de proyecto. 
 >-	Plazo: borrador listo en la semana 5 para revisión grupal.
